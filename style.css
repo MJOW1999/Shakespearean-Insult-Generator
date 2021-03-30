@@ -21,3 +21,13 @@ header{
   font-size: 50pt;
   color: #00134d;
 }
+button{
+  color: red;
+  background-color: white;
+  font-family: "Dancing Script", cursive;
+  font-size: 24px;
+  border: 1px solid darkslategrey;
+}
+button:hover{
+  background-color: azure;
+}
