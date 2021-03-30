@@ -39,3 +39,10 @@ footer{
   font-family: "Poppins", sans-serif;
   background-color: lightgray;
 }
+a {
+  text-decoration: none;
+  color: blue;
+}
+a:hover{
+  color: red;
+}
