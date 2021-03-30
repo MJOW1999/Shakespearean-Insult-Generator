@@ -31,3 +31,11 @@ button{
 button:hover{
   background-color: azure;
 }
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  background-color: lightgray;
+}
